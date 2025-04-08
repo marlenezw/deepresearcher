@@ -2,3 +2,5 @@
 
 Inspired by this repo from Langchain: https://github.com/langchain-ai/local-deep-researcher 💜
 
+![Video](./deepseek_app_vide.mp4)
+
